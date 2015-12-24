@@ -1,0 +1,15 @@
+{
+  "name": "isp-selector",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sosnovsky Alexey <sosnovsky.as@gmail.com> (http://sosnovskyas.ru/)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mmdb-reader": "0.0.4"
+  }
+}

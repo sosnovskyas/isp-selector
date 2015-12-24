@@ -1,0 +1,15 @@
+{
+  "rules": [{
+    "isp": ["isp1", "isp2", "isp3", "isp4", "isp5"],
+    "url": "index001.html"
+  }, {
+    "isp": ["isp6", "isp7", "isp8", "isp9", "isp10"],
+    "url": "index002.html"
+  }, {
+    "isp": ["Balnet Ltd.", "isp12", "isp13", "isp14", "isp15"],
+    "url": "index003.html",
+    "vertical": "test",
+    "geo": "ru",
+    "land": "rutest"
+  }]
+}
